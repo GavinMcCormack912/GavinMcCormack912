@@ -26,7 +26,7 @@
 
 - **Languages**: C, C++, Python, JavaScript (React, Node.js), SQL, Java, Apex, R 
 - **Web Development**: React, Node.js, Express, Flask, Django, REST APIs  
-- **Machine Learning**: Scikit-learn, TensorFlow, NumPy, Pandas  
+- **Machine Learning**: Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly  
 - **Tools**: Git, Docker, Linux, VS Code, Jupyter Notebooks  
 
 ---

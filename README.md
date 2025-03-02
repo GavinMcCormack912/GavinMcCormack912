@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at **Purdue University**  
 💻 Passionate about **Full-Stack Development** and **Machine Learning**  
-📚 Currently learning **C++** and exploring **Data Science with Python**  
+📚 Currently learning **TypeScript** and exploring **Data Science with Python**  
 🌱 Always eager to grow, collaborate, and build impactful projects.
 
 ---
@@ -24,8 +24,8 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C, C++, Python, JavaScript (React, Node.js), SQL, Java, Apex, R 
-- **Web Development**: React, Node.js, Express, Flask, Django, REST APIs  
+- **Languages**: C, Python, JavaScript (React, Node.js), SQL, Java, Apex 
+- **Web Development**: React, Node.js, Express, Flask, Django, REST APIs, MongoDB, PostgreSQL  
 - **Machine Learning**: Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly  
 - **Tools**: Git, Docker, Linux, VS Code, Jupyter Notebooks  
 

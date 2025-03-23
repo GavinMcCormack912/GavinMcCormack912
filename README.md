@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at **Purdue University**  
 💻 Passionate about **Full-Stack Development** and **Machine Learning**  
-📚 Currently learning **TypeScript** and exploring **Data Science with Python**  
+📚 Currently learning **TypeScript** and exploring **Machine Learning with Python**  
 🌱 Always eager to grow, collaborate, and build impactful projects.
 
 ---

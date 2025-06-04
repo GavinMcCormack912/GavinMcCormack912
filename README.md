@@ -2,7 +2,7 @@
 
 **🎓 Computer Science Student** at **Purdue University**  
 Passionate about **Full-Stack Development** and **Machine Learning**  
-Currently learning **TypeScript** and exploring **Machine Learning with Python**  
+Currently learning **TypeScript** and exploring **Machine Learning and Web Development with Python**  
 Always eager to grow, collaborate, and build impactful projects.
 
 ---
@@ -11,7 +11,7 @@ Always eager to grow, collaborate, and build impactful projects.
 
 - Purdue Boilermaker with a strong interest in designing and building robust, scalable, and intuitive applications  
 - Passionate about **AI and machine learning**, constantly looking for ways to apply them to real-world problems  
-- Experienced in full-stack development using **JavaScript (React, Node.js)** and **Python (Flask, Django)**
+- Experienced in full-stack development using **JavaScript (React, Node.js)**
 
 ---
 

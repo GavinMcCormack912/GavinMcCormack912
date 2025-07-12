@@ -31,7 +31,7 @@ C, Python, JavaScript (React, Node.js), SQL, Java, Apex
 React, Node.js, Express, Flask, REST APIs, MongoDB, PostgreSQL, SQLite  
 
 **Machine Learning:**  
-Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly  
+Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly, Keras  
 
 **Tools:**  
 Git, Docker, Linux, VS Code, Jupyter Notebooks

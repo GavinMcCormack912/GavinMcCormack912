@@ -11,7 +11,7 @@ Always eager to grow, collaborate, and build impactful projects.
 
 - Purdue Boilermaker with a strong interest in designing and building robust, scalable, and intuitive applications  
 - Passionate about **AI and machine learning**, constantly looking for ways to apply them to real-world problems  
-- Experienced in full-stack development using **JavaScript (React, Node.js)**
+- Experienced in full-stack development using **JavaScript (React, Node.js)** and **Python (FastAPI, Django, PyTorch, Tensorflow)**
 
 ---
 
@@ -31,7 +31,7 @@ C, Python, JavaScript (React, Node.js), SQL, Java, Apex
 React, Node.js, Express, Flask, REST APIs, MongoDB, PostgreSQL, SQLite  
 
 **Machine Learning:**  
-Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly, Keras  
+Pytorch, Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Plotly, Keras  
 
 **Tools:**  
 Git, Docker, Linux, VS Code, Jupyter Notebooks
